@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Кинодрайв Гермес",
+    "address": "ул. Сакко и Ванцетти, 62, ТЦ 'Гермес'",
+    "schedule": "ПН-ВС 09:30 - 22:00",
+    "phone": "+7 (950) 123-45-67",
+    "halls": "5",
+    "image": "/images/kinomax-img.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Кинодрайв Карнавал",
+    "address": "ул. Халтурина, 55, ТРЦ 'Карнавал'",
+    "schedule": "ПН-ВС 09:00 - 22:00",
+    "phone": "+7 (950) 234-56-78",
+    "halls": "8",
+    "image": "/images/cinemastar-img.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Кинодрайв Veer Mall",
+    "address": "просп. Космонавтов, 108Д, ТРЦ 'Veer Mall'",
+    "schedule": "ПН-ВС 10:00 - 22:00",
+    "phone": "+7 (950) 345-67-89",
+    "halls": "6",
+    "image": "/images/art-kino-img.jpg"
+  }
+]
