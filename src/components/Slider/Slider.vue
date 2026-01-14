@@ -145,7 +145,6 @@ export default {
 }
 
 .slider-tab:hover {
-    background: rgba(255, 255, 255, 0.2);
     transform: translateY(-2px);
 }
 
